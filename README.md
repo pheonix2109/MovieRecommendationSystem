@@ -9,7 +9,7 @@ GOAL:
     
 ABOUT DATASET:
 
-     ...     
+    https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
       
   The independent variables:
   
