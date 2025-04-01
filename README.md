@@ -3,6 +3,14 @@
 GOAL:
 
     The goal is to make suggestions for the users. The intuition behind this sort of recommendation system is that if a user liked a particular movie, he/she might like a movie similar to it.
+
+    - Default page
+    
+    ![alt text](https://github.com/pheonix2109/MovieRecommendationSystem/blob/main/Screenshot%202025-04-01%20170509.png?raw=true)
+
+    
+    - Output Page
+    ![alt text](https://github.com/pheonix2109/MovieRecommendationSystem/blob/main/Screenshot%202025-04-01%20170758.png?raw=true)
     
 ABOUT DATASET:
 
